@@ -84,7 +84,7 @@ export default function Footer() {
         <div className="border-t border-ivory/[0.07] pt-5 flex justify-between
                         flex-wrap gap-2">
           <p className="font-mono text-[0.6rem] text-ivory/22">
-            © 2024 Chaurasiya Family Restaurant & Bakers. All rights reserved.
+            © {new Date().getFullYear()} Chaurasiya Family Restaurant & Bakers. All rights reserved.
           </p>
           <p className="font-mono text-[0.6rem] text-ivory/22">
             Made with ♥ in Padrauna, UP

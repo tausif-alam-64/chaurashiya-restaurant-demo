@@ -21,7 +21,7 @@ export default function Hero() {
     <section className="flex min-h-[calc(100vh-4rem)] flex-col md:flex-row">
 
       {/* ── Left: Atmospheric image (60%) ─────────────────── */}
-      <div className="relative w-full md:w-[60%] h-[55vw] min-h-[220px] md:h-auto overflow-hidden flex-shrink-0">
+      <div className="relative w-full md:w-[60%] h-[65vw] min-h-[280px] md:h-auto overflow-hidden flex-shrink-0">
         <Image
           src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1400&auto=format&fit=crop&q=80"
           alt="Chaurasiya Restaurant"
@@ -38,7 +38,7 @@ export default function Hero() {
 
       {/* ── Right: Content (40%) ───────────────────────────── */}
       <div className="relative w-full md:w-[40%] bg-ivory flex flex-col
-                      justify-center px-6 md:px-12 py-14 md:py-0 min-h-[auto] md:min-h-[calc(100vh-4rem)]">
+                      justify-center px-6 md:px-12 py-10 md:py-0 min-h-[auto] md:min-h-[calc(100vh-4rem)]">
         <motion.div
           variants={container}
           initial="hidden"
@@ -106,7 +106,7 @@ export default function Hero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 1.2, duration: 0.6 }}
-          className="absolute bottom-8 left-6 md:left-12 flex items-center gap-2.5"
+          className="absolute bottom-8 left-6 md:left-12 hidden md:flex items-center gap-2.5"
         >
           <div className="w-px h-7 bg-accent opacity-50" />
           <span className="font-mono text-[0.58rem] tracking-[0.35em] text-muted uppercase">

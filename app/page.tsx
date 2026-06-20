@@ -3,6 +3,7 @@ import OpeningStatement from '@/components/home/OpeningStatement'
 import SignatureDishes  from '@/components/home/SignatureDishes'
 import Story            from '@/components/home/Story'
 import Reservations     from '@/components/home/Reservations'
+import VisitUs          from '@/components/home/VisitUs'
 import Footer           from '@/components/Footer'
 
 export default function HomePage() {
@@ -13,6 +14,7 @@ export default function HomePage() {
       <SignatureDishes />
       <Story />
       <Reservations />
+      <VisitUs />
       <Footer />
     </>
   )
