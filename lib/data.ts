@@ -102,7 +102,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Crispy Corn Bites',
     desc: 'Crispy corn nuggets tossed with herbs & spices. Served with mint dip.',
     price: 229,
-    img: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1605165104721-137af96a657e?w=500&auto=format&fit=crop&q=80',
     
   },
   {
@@ -117,14 +117,14 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Hara Bhara Kebab',
     desc: 'Spinach and green pea patties with cottage cheese, shallow fried golden.',
     price: 199,
-    img: 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1674622720208-2a67da6ff4e8?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 4, cat: 'Starters',
     name: 'Veg Spring Rolls',
     desc: 'Crispy golden rolls filled with spiced cabbage, carrots & glass noodles.',
     price: 189,
-    img: 'https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1695712641569-05eee7b37b6d?w=500&auto=format&fit=crop&q=80',
   },
 
   // ── Mains ───────────────────────────────────────────────────
@@ -133,14 +133,14 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Paneer Tikka Sizzler',
     desc: 'Cottage cheese marinated in Indian spices, grilled with peppers & onions.',
     price: 299,
-    img: 'https://images.unsplash.com/photo-1574653853027-5382a3d23a15?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1666001120694-3ebe8fd207be?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 6, cat: 'Mains',
     name: 'Dal Makhani',
     desc: 'Black lentils slow-cooked overnight with desi butter, cream & aromatic whole spices.',
     price: 249,
-    img: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1736680056444-02b10f16a245?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 7, cat: 'Mains',
@@ -177,14 +177,14 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Arrabiata Spaghetti',
     desc: 'Spaghetti in spicy tomato sauce with olives, capers & fresh basil leaves.',
     price: 299,
-    img: 'https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1630409349197-b733a524b24e?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 12, cat: 'Pasta',
     name: 'Mac & Cheese',
     desc: 'Elbow macaroni baked in a three-cheese sauce with a golden herb crust.',
     price: 319,
-    img: 'https://images.unsplash.com/photo-1574484284002-952d92456975?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1667499989723-c4ab9549d63c?w=500&auto=format&fit=crop&q=80',
   },
 
   // ── Beverages ───────────────────────────────────────────────
@@ -214,7 +214,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Mango Lassi',
     desc: 'Thick churned yoghurt blended with Alphonso mango pulp & a hint of cardamom.',
     price: 129,
-    img: 'https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1719239948819-0afeced16184?w=500&auto=format&fit=crop&q=80',
   },
 
   // ── Desserts ────────────────────────────────────────────────
@@ -223,7 +223,7 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Gulab Jamun',
     desc: 'Soft khoya dumplings soaked in warm rose-cardamom syrup. Served warm.',
     price: 149,
-    img: 'https://images.unsplash.com/photo-1609501676725-7186f017a4b7?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1666190092159-3171cf0fbb12?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 18, cat: 'Desserts',
@@ -237,13 +237,13 @@ export const MENU_ITEMS: MenuItem[] = [
     name: 'Rasmalai',
     desc: 'Flattened paneer discs in sweetened saffron milk with crushed pistachios.',
     price: 179,
-    img: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1694402594431-23c594be1745?w=500&auto=format&fit=crop&q=80',
   },
   {
     id: 20, cat: 'Desserts',
     name: 'Gajar Halwa',
     desc: 'Red carrots slow-cooked in desi ghee, full-cream milk & cardamom. Seasonal.',
     price: 169,
-    img: 'https://images.unsplash.com/photo-1662116765994-1e4200c43589?w=500&auto=format&fit=crop&q=80',
+    img: 'https://images.unsplash.com/photo-1543773495-2cd9248a5bda?w=500&auto=format&fit=crop&q=80',
   },
 ]

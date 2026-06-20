@@ -27,7 +27,7 @@ export default function Story() {
         className="relative w-full h-[280px] md:h-auto md:flex-[0_0_42%] overflow-hidden"
       >
         <Image
-          src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=700&auto=format&fit=crop&q=80"
+          src="https://images.unsplash.com/photo-1641536618422-2cf0bbd10014?w=700&auto=format&fit=crop&q=80"
           alt="Our kitchen"
           fill
           sizes="(max-width: 768px) 100vw, 42vw"
